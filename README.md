@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [English](./README_EN.md)
 
 # Offine-Text-Translate 本地离线文字翻译
@@ -280,3 +281,8 @@ def update_package_index():
 1. https://github.com/LibreTranslate/LibreTranslate
 
 2. https://github.com/argosopentech/argos-translate
+=======
+# SRTsubtranslate
+## Translate srt subtitles locally with ott (https://github.com/jianchang512/ott).
+It will output a new srt with the translation.
+>>>>>>> ott/main
